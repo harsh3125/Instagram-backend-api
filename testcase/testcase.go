@@ -1,8 +1,9 @@
-ackage main
+//Author:Harsh Agrawal 19BCE10101
+package main
 
 import (
 	"fmt"
-	"github.com/rishabhjohri/Instagram-backend-api"
+	"github.com/harsh3125/Instagram-backend-api"
 	"os"
 )
 
